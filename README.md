@@ -74,5 +74,5 @@ http://www.vogella.com/tutorials/Robolectric/article.html
 
 # Espresso
 http://www.vogella.com/tutorials/AndroidTestingEspresso/article.html#espresso_gradleconfiguration
-
+https://medium.com/mindorks/android-testing-part-1-espresso-basics-7219b86c862b
 
